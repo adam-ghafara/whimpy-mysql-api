@@ -16,6 +16,7 @@ A small REST API written in Go for managing intern accounts (registration, profi
 - [API Endpoints](#api-endpoints)
 - [Testing with Postman](#testing-with-postman)
 - [Troubleshooting & Known Limitations](#troubleshooting--known-limitations)
+- [License](#license)
 
 ---
 
@@ -54,6 +55,7 @@ whimpy-mysql-api/
 ├── app.go        # Entire application: routes, handlers, DB access
 ├── go.mod        # Module definition (module golang-mysql-api)
 ├── go.sum        # Dependency checksums
+├── LICENSE       # MIT license
 └── README.MD     # This file
 ```
 
@@ -518,4 +520,12 @@ Other notes:
 
 ## License
 
-See the repository owner for licensing information. Created by [github.com/adam-ghafara](https://github.com/adam-ghafara).
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for the full text.
+
+```
+MIT License
+
+Copyright (c) 2026 Adam Ghafara
+```
+
+Created by [github.com/adam-ghafara](https://github.com/adam-ghafara).
